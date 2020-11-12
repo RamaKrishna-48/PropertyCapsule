@@ -1,0 +1,2 @@
+# PropertyCapsule
+Automation
